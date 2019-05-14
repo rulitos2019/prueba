@@ -1,0 +1,45 @@
+.logos {
+	text-align: center;
+	font-size: 3em;
+}
+body {
+	padding-top: 56px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.icono {
+	font-size: 6em;
+}
+.iconos2 {
+	font-size: 3em;
+
+}
+.galeria {
+background-color: #512DA8;
+}
+.footer{
+	background-color: #F9505C;
+}
+.trabajos {
+	background-color: #F9F9F9;
+}
+.sobremi {
+	padding: 0;
+	
+}
+.titulos{
+	font-family: 'Bree Serif';
+	font-size: 4em;
+}
+.header {
+	background-image: url(../img/fondo1.jpg);
+}
+
+.yo {
+	width: 30%;
+}
+.navbar-brand {
+	font-family: 'bree';
+}
